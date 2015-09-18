@@ -1,0 +1,6 @@
+[submodule "libxposed"]
+	path = libxposed
+	url = https://github.com/M1cha/android_library_libxposed.git
+[submodule "ColorPickerPreference"]
+	path = ColorPickerPreference
+	url = https://github.com/attenzione/android-ColorPickerPreference.git

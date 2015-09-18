@@ -1,0 +1,11 @@
+Version 1.1 - Sep 11, 2014
+    * fixed preference initialization
+    * added font size option
+    * added vertical alignment option
+    * text display tries to set a minimum (fixed) width, requires kernel cpufreq
+      with scaling_available_frequencies or stats/time_in_state
+    * doesn't run update when status bar is hidden (requested by aness zurba)
+    * removed theme override
+    * added custom icon
+    * added logging option
+    * misc small tweaks and clean up
